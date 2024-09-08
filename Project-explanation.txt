@@ -1,0 +1,121 @@
+## Project Explanation:  
+------------
+Description:   
+------------
+  The project i worked on is a ecommers website in which user can purchase the products like cakes, gifts etc.    
+- We have 14 members of of teams where we have 3 frontend developers, 3 backend developers, 2 full stack developers, 
+  1 system administrator, 2 DevOps engineers including me as intern, 1 project manager and 2 testers.    
+
+-----------
+Tech Stack: 
+-----------
+If i talk about Tech Stack, for frontend we used Angular js, For backend we use spring boot and for database we use postgressql. 
+- Our Frontend is depolyed over s3 bucket where 1 is main frontend which is homepage and others are micro frontends. 
+  total four frontends are there.  
+- Our Backend is deployed over the eks cluster. i which we have approx 18 backends.  
+- For connecting backend with frontend we expose our backend on subdomain (api.example.com), 
+  and for connecting database to backend we use RDS Endpoints.   
+- For handling the DNS request we use Route53.  
+- & For improving the latency performence we use cloudfront.   
+
+--------------------
+Deployment Strategy: 
+--------------------
+When it come to Deployment Strategy, we have 4 four branches (dev, test, UAT, Production). 
+
+- In Dev Branch The initial stage of developement is happen. All new feature are added here.  
+- Once the code is stable, it's merged into test branch.   
+- After passing the test branch, the code moves to UAT branch where 4-5 end user will test the application.  
+- & the final live environment is managed through the production branches.   
+ 
+Apart from that i also work with two other branches. (hotfix banch:- In we resole issue directly in production branch,
+&  feature branch:- If we want to add new feature without affecting the main branch in this case we use this branch)   
+  
+--------------
+DevOps tools: 
+-------------- 
+To somothen this process we use several devOps tools like,
+- github for managing our project code with Multiple branches,   
+- Docker for creating containerized application,   
+- kubernetes for managing all containers,  
+- Terraform for creating infra in the form of code,   
+- & jenkins for continues Intigration and continues Deployment.      
+
+
+----------
+Pipeline: 
+----------
+If i Talk about the Pipeline we have 4 stage pipeline.  
+ 
+- 1st stage is for pulling the code form version control tool like (github)    
+- 2nd stage is for building the artifact using tools called maven.  
+- 3rd stage is for checking the code quality using tool called sonarqube.  
+- 4th stage is for deploying application.    
+
+& if new commit happen pipeline get trigger automatically.   
+
+----------------------------
+Roles and Responsibilities:     
+----------------------------
+If i talk about my roles and responsibility, 
+- The project is started before 1 year of my joining,  
+- where i responsibile for creating and writing dockerfile, 
+- writing terraform files, 
+- Optimising the pipeline script,
+- maintaining pods in running state, 
+- monitoring the application with graffana and promatheses.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+domain:  igp.com  -->  ecommers.com     (Confirmed)  
+         inbestments.com  --> invester can invest 
+         dyl.com  --> Business phone service  
+
+ 
+Sir as per understanding premothese is responsible for collecting the matrises.  
+
+ 
+
