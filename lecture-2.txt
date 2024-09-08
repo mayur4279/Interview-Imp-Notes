@@ -1,0 +1,70 @@
+project explanation lecture..   
+
+1. Aws there tier project 
+
+
+domain  - erp,  ecommers, medical --->    koi bhi batado   
+
+
+
+
+team size - 13   (backend-3, frontend-3, devops-1 system -1)  if intern project is still running  
+
+
+dyl.com, igp.com      
+
+
+please explain about your latest project  ??? 
+
+
+backend is exposed on subdomain..   like  api.dyl.com  or api.inbestment.com  
+
+
+frontend devepoled with react,  backend with angular , we have , cdn, route53  
+
+
+deployment stargious:  
+ 
+four branch :- Dev    ---------------------
+                          \ if done 
+               Test   ---------------------
+
+               UAT    ---------------------
+
+               prod  ----------------------   (live environment)  ex:amazon.com  
+
+
+user acceptance Test (4-5 end user will test)  
+
+hotfix banch:- we resole issue directly in production 
+
+
+my project ....  where invesetor ....  if i talk about tech stack  we use .... for frontent ... backend  ... backend is exposed over subdomain ...  database post gresssql 
+
+aprrox 18 backend, 18 database , 
+
+
+provide rediention to stakeholders and they 
+
+
+to smootehn this process we are use several devops tols, such as for terraforn, aws, jenkins, docker , github  
+
+pipeline 4 stage pull, build, test, Deploy  
+
+
+if i talk about my resposibilities:-  project is started befor/after 1 year 
+
+and resposibilities are... where i wrote docker file, terraform file, maintaining...  monitoring   
+
+i was responsibile for writing couple of docker files ,,   
+
+
+apart from that we also worked with two other branch,  pipeline gets trigger automatically  
+
+
+
+
+
+
+
+angular is more suitable for frontend ...     
