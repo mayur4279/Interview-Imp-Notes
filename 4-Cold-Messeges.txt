@@ -1,0 +1,83 @@
+---------------
+Cold Email 
+---------------
+
+Subject: Application for Devops Position
+
+Dear [Hiring Manager's Name],
+
+I hope this message finds you well. I am writing to express my interest in the position at [Company Name] that I discovered through linkedin.
+
+With 1 years of experience in DeVops, I and my ability to contribute effectively to your team and believe my skills in DevOps tools align well with the requirements of the role.
+
+Thank you for considering my application. I have attached my resume for your review, and I would welcome the opportunity to discuss how my background, skills, and experience in devOps make me a strong candidate for this position.
+
+I look forward to hearing from you soon.
+
+Best regards,
+
+[Mayur Dhotre]
+
+[9881052089, Pune, Maharashtra]  
+
+[https://www.linkedin.com/in/mayurdhotre]   
+
+
+{Add resume}   
+
+
+
+
+--------------------------------------------------
+Personalize Message to (if any opening is available)
+--------------------------------------------------
+
+Dear [First name]
+ 
+I found your profile on linkdin. I'm DevOps Engineer,
+with 1 year of intership experience and currently seeking new opportunities. 
+i'd love to chat about whether my background might be a fit for any of you openings. 
+
+Best regards,  
+[Mayur Dhotre]
+
+
+--------------------------------------------------
+Personalize Message (if we saw any opportunities)
+--------------------------------------------------
+
+Hello [HR Name]  
+
+i hope you're doing well. I'm intersted in the [job position] at [Company Name] 
+and would be grateful if you could refer me. I belive my skills align well with the role. 
+
+Thank you for considering my request. 
+
+Best regards, 
+[Mayur Dhotre]
+
+
+
+---------
+Filters: 
+---------  
+
+site: linkedin.com/jobs  "DEVOPS" and  "ENGINEERS" and  "JOB"  
+
+
+
+
+
+
+
+
+
+
+Terraform:   
+
+1) jenkins Server 
+2) Eks Cluster 
+
+
+
+
