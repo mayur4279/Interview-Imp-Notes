@@ -2,9 +2,9 @@
 ------------
 Description:   
 ------------
-  The project i worked on is a ecommers website in which user can purchase the products like cakes, gifts etc.    
-- We have 14 members of of teams where we have 3 frontend developers, 3 backend developers, 2 full stack developers, 
-  1 system administrator, 2 DevOps engineers including me as intern, 1 project manager and 2 testers.    
+  - The project i worked on is a ecommers website in which user can purchase the products.    
+  - We have 14 members of of teams where we have 3 frontend developers, 3 backend developers, 2 full stack developers, 
+  1 system administrator, 2 DevOps engineers && 1 project manager and 2 testers.    
 
 -----------
 Tech Stack: 
@@ -68,54 +68,13 @@ If i talk about my roles and responsibility,
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 domain:  igp.com  -->  ecommers.com     (Confirmed)  
          inbestments.com  --> invester can invest 
          dyl.com  --> Business phone service  
 
  
-Sir as per understanding premothese is responsible for collecting the matrises.  
+Sir I think premothese is responsible for collecting the matrises, But I am not 100% sure.  
+
 
  
 
