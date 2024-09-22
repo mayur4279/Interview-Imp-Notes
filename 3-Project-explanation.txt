@@ -9,7 +9,7 @@ Description:
 -----------
 Tech Stack: 
 -----------
-If i talk about Tech Stack, for frontend we used Angular js, For backend we use spring boot and for database we use postgressql. 
+If i talk about Tech Stack, for frontend we used Angular js, For backend we use spring boot and for database we use mysql. 
 - Our Frontend is depolyed over s3 bucket where 1 is main frontend which is homepage and others are micro frontends. 
   total four frontends are there.  
 - Our Backend is deployed over the eks cluster. i which we have approx 18 backends.  
@@ -73,6 +73,10 @@ domain:  igp.com  -->  ecommers.com     (Confirmed)
          dyl.com  --> Business phone service  
 
  
+
+
+
+
 
 
 

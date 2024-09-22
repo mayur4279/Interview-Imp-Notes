@@ -5,6 +5,10 @@ Filters:
 "DevOps Engineer" AND "Fresher"  AND  "Hiring"  
 
 
-site: linkedin.com/jobs  "DEVOPS" and  "ENGINEERS" and  "JOB"  
+"DevOps Engineer" AND  "Hiring" AND "Cloud Engineer" AND  "Pune"    
+
+
+site: linkedin.com/jobs  "DEVOPS" and  "ENGINEERS" and  "JOB" 
+
 
 
