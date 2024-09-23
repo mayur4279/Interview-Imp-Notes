@@ -2,7 +2,7 @@
 ------------
 Description:   
 ------------
-  - The project i worked on is a ecommers website in which user can purchase the products.    
+  - The project i worked on is a ecommers website in which user can purchase the products and gifts.    
   - We have 14 members of of teams where we have 3 frontend developers, 3 backend developers, 2 full stack developers, 
   1 system administrator, 2 DevOps engineers && 1 project manager and 2 testers.    
 
@@ -12,7 +12,8 @@ Tech Stack:
 If i talk about Tech Stack, for frontend we used Angular js, For backend we use spring boot and for database we use mysql. 
 - Our Frontend is depolyed over s3 bucket where 1 is main frontend which is homepage and others are micro frontends. 
   total four frontends are there.  
-- Our Backend is deployed over the eks cluster. i which we have approx 18 backends.  
+- Our Backend is deployed over the eks cluster. in which we have approx 18 backends.  
+- Our Database is deployed over Aws RDS service.   
 - For connecting backend with frontend we expose our backend on subdomain (api.example.com), 
   and for connecting database to backend we use RDS Endpoints.   
 - For handling the DNS request we use Route53.  
@@ -23,14 +24,13 @@ Deployment Strategy:
 --------------------
 When it come to Deployment Strategy, we have 4 four branches (dev, test, UAT, Production). 
 
-- In Dev Branch The initial stage of developement is happen. All new feature are added here.  
-- Once the code is stable, it's merged into test branch.   
-- After passing the test branch, the code moves to UAT branch where 4-5 end user will test the application.  
-- & the final live environment is managed through the production branches.   
- 
-Apart from that i also work with two other branches. (hotfix banch:- In we resole issue directly in production branch,
-&  feature branch:- If we want to add new feature without affecting the main branch in this case we use this branch)   
-  
+- In Dev all developers are working together with multiple feature branches.  
+- After completing development the code is merged into Test branch where testers check the quality of the code.  
+- If the code passed from Test branch then it will be moved into uat branch where 4 to 5 end users will test the application.  
+- & from production branch the live environment is managed.    
+
+Apart from that i also work with hotfix branch In which we resole issue directly in production branch.   
+
 --------------
 DevOps tools: 
 -------------- 
@@ -52,18 +52,18 @@ If i Talk about the Pipeline we have 4 stage pipeline.
 - 3rd stage is for checking the code quality using tool called sonarqube.  
 - 4th stage is for deploying application.    
 
-& if new commit happen pipeline get trigger automatically.   
-
 ----------------------------
 Roles and Responsibilities:     
 ----------------------------
 If i talk about my roles and responsibility, 
 - The project is started before 1 year of my joining,  
-- where i responsibile for creating and writing dockerfile, 
-- writing terraform files, 
-- Optimising the pipeline script,
-- maintaining pods in running state, 
-- monitoring the application with graffana and promatheses.  
+
+- where i responsibile for creating and writing dockerfile, writing Deployment files of kubernetes,
+  writing terraform files, writing cicd pipeline scripts,  
+- Also Responsible for maintaining pods in running state, Optimising the pipeline script, monitoring the application with graffana and promatheses.  
+
+
+
 
 
 
@@ -124,6 +124,8 @@ four branch :- Dev    ---------------------
 user acceptance Test (4-5 end user will test)  
 
 hotfix banch:- we resole issue directly in production 
+&  feature branch:- If we want to add new feature without affecting the main branch in this case we use this branch)   
+  
 
 my project ....  where invesetor ....  if i talk about tech stack  we use .... for frontent ... backend  ... backend is exposed over subdomain ...  database post gresssql 
 
