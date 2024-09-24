@@ -2,13 +2,15 @@
 Filters: 
 ---------  
 
-"DevOps Engineer" AND "Fresher"  AND  "Hiring"  
+"DevOps Engineer" AND "Fresher"  AND  "Hiring"      (Linkdin Search)  
 
 
-"DevOps Engineer" AND  "Hiring" AND "Cloud Engineer" AND  "Pune"    
+"DevOps Engineer" AND  "Hiring" AND "Cloud Engineer" AND  "Pune"  (Linkdin Search )   
 
 
-site: linkedin.com/jobs  "DEVOPS" and  "ENGINEERS" and  "JOB" 
+site: linkedin.com/jobs  "DEVOPS" and  "ENGINEERS" and  "JOB"     (Google filter)   
+
+
 
 
 
