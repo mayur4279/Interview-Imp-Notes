@@ -62,36 +62,3 @@ Best regards,
 [Mayur Dhotre]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Terraform:   
-
-1) jenkins Server 
-2) Eks Cluster 
-
-
-
-
