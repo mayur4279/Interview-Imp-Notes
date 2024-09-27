@@ -74,8 +74,7 @@ domain:  igp.com  -->  ecommers.com     (Confirmed)
 
 
 
-
-
+Every environment is a separate pipeline. (if developers pushed over dev branch then the dev branch pipeline automatically gets triggers)
 
 
 
