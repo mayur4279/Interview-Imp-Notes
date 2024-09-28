@@ -1,0 +1,52 @@
+-------------------
+Basic Introduction
+-------------------
+Hellow, [Shubham] my name is mayur, i am  currently residing in pune. 
+- I completed my graduation from indira college of engineering and management.  
+- Since nov 2023 i have been working with hisan labs company, where i gained the extensive experience in devOps methoodology, Aws & Linux System Administrator.   
+           At XYZ company my role particularly involved in operational part of devOps.   
+
+
+----------
+DevOps 
+----------
+In devOps domain I have hands on experience with various tools such as version control with git and github, where i managed project code locally with git fucntions like Branching, mergeing & rebasing, Along with forking and managing pull requests.  
+
+i worked with containerization tool like docker where i run my application in the form of containers. also crearted cutome images as per company requirement & pushed over docker registry.  
+
+[Shubham] my main work comes under the kubernetes where i managed clusters and there nodes & worked with objects like replicaset, deployment to deploy the pods.   
+I also managed its external access using services  like load balancer, nodeport & clusterIp along with Ingress for controlling the incoming traffic.   
+
+I also wotk with terraform where i created infra in the form of code, mainly for the aws. hence i familier with declarative language as well.  I also work with terraform modules to resue my at any point of time as well  
+
+I also experience with CICD tool like jenkins, where i created pipeline using building tools like maven, testing tool like sonarqube & deployed over apache tomcat.  
+
+
+------ 
+Aws 
+-----  
+
+As for Aws, I experience in working with various services like IAm where i managed users, group & roles and attached different policies to them, 
+
+I have also work with computational services like Ec2, where i created launch templates & customes amis as per requirement. also work with auto scaling group and attached load balancer to volume group, to optimised the performance of the server.   
+
+I have also work with netwoking services like vpc & Route53 where i create private vpc & Its componenets like subnet & oute tables.  In subnet I created public and private subnet & In private subnet i hosted my main server and in public subnet i hosted the proxy server. Also astablishing the connection between two different region vpc with with the help of VPC peering.   
+    As for route53 i managed the DNS configuartion Including domain registartion, hosted zone and worked with DNS routing policy like weighted, latency based & geolocation based.  
+
+I also work with database services like RDS & storage services like EFS & s3 where i managed the object storage. I also created public and private bucket. In private bucket i stored the sensitive data like terraform .tfstate file and in public bucket i hosted a static website.  Also managed the s3 lifecycle using multiple storage classes. Also done cross region replication of the bucket.  
+
+This was my summary of work in Aws.   
+
+
+------
+Linux 
+------  
+
+Apart from that, I have also experience with handling desktop os like ubuntu and windows & server os like centos in which i managed users and groups.  
+- Also implemeted security using firewall, SELinux, sudo previledges & monitored the system using commands like top, netstat.
+
+- Also managed file system and worked with disk partitions and created logical volumes as per storage requirement.  
+
+- Also worked with networking services like SSH, Ftp, HTTP & NFS
+
+- I also have the basic understanding of writing shell scripting for automation, using that i created backups with tools like tar & cronjob 
