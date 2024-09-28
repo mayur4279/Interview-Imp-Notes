@@ -1,0 +1,58 @@
+Explain me about yourself  ??   
+
+what is microservice  ??  
+
+difference between monolithic and microservices ?? 
+
+what is responsibilities ??   
+
+how many backend you have?? 
+
+what version of postgress you use in database ??   
+
+how many databases  ??  (we have only one databse server)  (standby database means if the main database is down)  
+
+high availability (use multi availability deployment) 
+
+Difference between test and uat environment ? 
+
+what is i found a issue in production branch ?  (we use hotfix branch)  
+
+what is we found issue in prod branch. (we will work with developers. like we help developers to create hotfix branch, as a inter we raise bug ticket)  
+
+what is sprint ? (is a working cycle 2-to-4 weeek, devOps methodlogy)   
+
+tell me about the all technology version which you used in your project ??   
+
+tell  me about branching starategious  ??  (imp question)     
+
+how will you push code in dev in gitlab ??  ( we create feature branch of that dev branch, after that a developer write the code,  and create the merge request)  
+
+what command will you use to build the application ??  (mvn package, ng build)  
+
+what quality checks by sonarqube does  ??  
+
+how many nodes are there in your cluster ?  if 1 then why ? (for high avalability, generally use 3 worker node is used beacause  of trafric performance )  (node auto scaling)   
+
+why we deploy 5 microfrontend in separate bucket ??
+
+what is schedule ??  
+i login  in 10 pm and after that i check any ticket i have, after that i start my code. 
+
+what is schedule of last day ? 
+i login in 10 pm after that i saw a ticket where our pipeline taking to much time,
+after that i worked with my senior developers i resolve the issue where there is problem with our storage services   
+
+
+
+
+
+rule  ???  as ahe tar as ka create ka kartoi ??  
+
+
+
+
+
+
+
+
