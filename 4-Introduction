@@ -1,5 +1,5 @@
 Introduction (name, residing, complted graduation from, since nov... where i gained , At hisan my role par...)
-└── DevOps (In DevOps domain)
+└── DevOps (In DevOps domain) (i have hands on experience in working with...)
      ├── Github  
         └── (managed project code locally, with git functions.., along with managing pull     requests)       
     
@@ -19,16 +19,22 @@ Introduction (name, residing, complted graduation from, since nov... where i gai
 This was my summary of work in DevOps 
 
 
-└── Aws (As for Aws)
+└── Aws (As for Aws) (i experience in working with various services such as,  )
      ├── IAM
         └── (managed users, groups and roles and attached diffrent policies to them)   
      
+     
+     
      ├── Networking services (vpc & route53)
         └── (created private vpc and its components like subnet and route tables, In subnet private and 
-            public subnet, vpc peering )   
+            public subnet, Also, established connection beteween .... with vpc peering)   
+
 As for  └── (managed Dns configurations, including domain regi.., hosted ... & worked with 
 route53      different routing policies like weighted, latency based, geolocation based  )
         
+     
+    
+    
      ├── Database services (RDS)  &
 
      ├── Storage services (s3 and efs)  
@@ -38,22 +44,32 @@ route53      different routing policies like weighted, latency based, geolocatio
 This was my  summary of work in Aws 
 
 
+
 └── Linux (Apart from that )
-     ├── Desktop os & server os
+     ├── Desktop os & server os 
+
+     ├── I Also Have Basic understanding of writing shell scripting for automation. 
+     ├── & Also created backups using tools like tar & cronjob.  
+    
+     { Optional
+
      ├── Implemented security using firewall, SELinux & sudo previledges
      ├── monitored systems using top and netstat 
-
      ├── managed filesystem 
      ├── work with disk partitions 
      ├── Created logical volumes 
 
-     ├── Worked netwoking services like (ssh, ftp, http & nfs)   
+     ├── Worked netwoking services like (ssh, ftp, http & nfs) 
 
-     ├── Basic understanding of writing shell scripting for automation 
-     ├── Created backups using tar & cronjob 
-
+     }   
 
 
+
+
+
+
+
+     
 
 -------------------
 Basic Introduction
