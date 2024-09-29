@@ -24,8 +24,8 @@ This was my summary of work in DevOps
         └── (managed users, groups and roles and attached diffrent policies to them)   
      
      ├── Networking services (vpc & route53)
-        └── (created private and its components like subnet and route tables, In subnet private and 
-            public vpc, vpc peering )   
+        └── (created private vpc and its components like subnet and route tables, In subnet private and 
+            public subnet, vpc peering )   
 As for  └── (managed Dns configurations, including domain regi.., hosted ... & worked with 
 route53      different routing policies like weighted, latency based, geolocation based  )
         
