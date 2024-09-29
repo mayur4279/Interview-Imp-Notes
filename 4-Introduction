@@ -7,7 +7,8 @@ Introduction (name, residing, complted graduation from, since nov... where i gai
         └── (run application in the form of containers, custom images, docker registry)  
      
      ├── kubernetes   
-        └──  ( managed clusters and there nodes, worked with objects like replicaset, deployment, managed external access usinig services... , along with ingress for contro... ) 
+        └──  ( managed clusters and there nodes, worked with objects like replicaset, deployment, 
+               managed external access usinig services... , along with ingress for contro... ) 
      
      ├── Terraform 
         └── ( created infra in the form of code, aws, declarative language, work with terraform mudules to resuse...)   
