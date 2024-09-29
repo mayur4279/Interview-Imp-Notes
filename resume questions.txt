@@ -1,0 +1,40 @@
+why we create multiple environment/ branched in git ?   
+how you managed the pull requests ? 
+architecture of docker ? 
+why we use docker over virtualization ?  
+what is dockerfiles ?
+write the dockerfile / give me 2 instruction with example ?  
+what is docker registry ?
+what is kubernetes architecture ?   
+what is deployment files ? and why use mainly use deployment object ?
+what is service in kubernetes ?   
+what is ingress & why we use ?  
+what is terraform and why use use it ?  
+what is output block in terraform ? 
+what is tfvars files ?  
+what is modules in terrafrom ?  
+current infra of your project  ?  
+what is jenkins ?  
+how many pipeline in your jenkins ? 
+explain your pipeline ?   
+what is maven ?  
+what is sonarqube and why we use in details ? feature if sonarqube ?  
+
+
+what is iam roles, users & policies ?  
+what is s3 bucket ?  cross region replication of bucket ?  
+types of ec3 instance ? what is auto scaling ?  what isload balancer ?  what is volume group ?  
+how you configure dns ? what are routing policies ?  
+what is cloudwatch service ?  
+
+
+what is firewalls ?  
+what is SELinux ?  
+how to give sudo access to that particular user ? 
+how to monitor the systems using top and netstat ? 
+how to manage disk partitions ? 
+how to create LVM's ?  
+write shell script for us ? 
+what is cronjob  ? 
+
+

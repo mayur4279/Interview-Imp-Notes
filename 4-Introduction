@@ -1,3 +1,59 @@
+Introduction (name, residing, complted graduation from, since nov... where i gained , At hisan my role par...)
+└── DevOps (In DevOps domain)
+     ├── Github  
+        └── (managed project code locally, with git functions.., along with managing pull     requests)       
+    
+     ├── Docker  
+        └── (run application in the form of containers, custom images, docker registry)  
+     
+     ├── kubernetes   
+        └──  ( managed clusters and there nodes, worked with objects like replicaset, deployment, managed external access usinig services... , along with ingress for contro... ) 
+     
+     ├── Terraform 
+        └── ( created infra in the form of code, aws, declarative language, work with terraform mudules to resuse...)   
+     
+     ├── Terraform  
+        └── (created pipeline using building tool like... , testing tool... , deployed over apache...)   
+
+This was my summary of work in DevOps 
+
+
+└── Aws (As for Aws)
+     ├── IAM
+        └── (managed users, groups and roles and attached diffrent policies to them)   
+     
+     ├── Networking services (vpc & route53)
+        └── (created private and its components like subnet and route tables, In subnet private and 
+            public vpc, vpc peering )   
+As for  └── (managed Dns configurations, including domain regi.., hosted ... & worked with 
+route53      different routing policies like weighted, latency based, geolocation based  )
+        
+     ├── Database services (RDS)  &
+
+     ├── Storage services (s3 and efs)  
+         (managed object storage, public private bucket... , managed s3 lifecycle using multiple stogare 
+          classes, Also done cross region replication of bucket. )
+
+This was my  summary of work in Aws 
+
+
+└── Linux (Apart from that )
+     ├── Desktop os & server os
+     ├── Implemented security using firewall, SELinux & sudo previledges
+     ├── monitored systems using top and netstat 
+
+     ├── managed filesystem 
+     ├── work with disk partitions 
+     ├── Created logical volumes 
+
+     ├── Worked netwoking services like (ssh, ftp, http & nfs)   
+
+     ├── Basic understanding of writing shell scripting for automation 
+     ├── Created backups using tar & cronjob 
+
+
+
+
 -------------------
 Basic Introduction
 -------------------
@@ -20,7 +76,7 @@ also crearted cutome images as per company requirement & pushed over docker regi
 
 [Shubham] my main work comes under the kubernetes where i managed clusters and there nodes & worked with 
 objects like replicaset, deployment to deploy the pods.   
-I also managed its external access using services  like load balancer, nodeport & clusterIp along with 
+I also managed its external access using services  like loadbalancer, nodeport & clusterIp along with 
 Ingress for controlling the incoming traffic.   
 
 I also wotk with terraform where i created infra in the form of code, mainly for the aws. hence i 

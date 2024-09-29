@@ -1,0 +1,14 @@
+
+
+microservice --> break large application into smaller, each service has its own responsibilities.
+(user-service, product service , payment service, database service)   
+
+Angular version --> 12, spring boot --> 2.7 beacuse it support java 11, postgressql 17 (latest)  
+
+Test branch is mainly used by testers or developers && uat branch mainly used by end users.  
+
+hotfix branch (if the issue found in the prod branch) (branches are nothing but the just tag given to that branches) 
+
+git checkout -b  feature/your-branch 
+
+
