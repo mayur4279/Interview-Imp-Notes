@@ -1,0 +1,19 @@
+
+AWs
+├── IAM service  
+├── S3  
+├── efs  
+├── VPC 
+├── RDS
+├── Route53  
+
+
+IAM :
+  Manage users, groups  and roles attached different policies to them.
+  share resources  
+  control access level  of multiple resouces    
+
+
+
+user sign in   --->  when we select the service,     --> IAm verifies -->  
+                     we send authorisation request   
