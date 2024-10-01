@@ -13,7 +13,7 @@ Introduction (name, residing, complted graduation from, since nov... where i gai
      ├── Terraform 
         └── ( created infra in the form of code, aws, declarative language, work with terraform mudules to resuse...)   
      
-     ├── Terraform  
+     ├── Jenkins  
         └── (created pipeline using building tool like... , testing tool... , deployed over apache...)   
 
 This was my summary of work in DevOps 
