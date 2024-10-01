@@ -1,0 +1,63 @@
+what is computing ? cloud computing means renting services over the internet instead of running them on your own computer. 
+
+why we use cloud  ?  
+- cost saving (pay only what you use ) 
+- easy scaling ( quickly scale you application)   
+- access anywhere 
+- Backup and Recovery 
+- Better security 
+- Gloabal Reach  (because we are deploying our application over multiple regions)  
+
+
+Types of cloud ?  
+public cloud: 
+  - public cloud is owned and operated by third party cloud providers.  
+  - They offer services to multiple customers & used by everyone.  
+Private cloud: 
+   - On premises servers (used for sensitive informations)   
+Hybrid cloud: 
+   - combination of both public and private cloud 
+   - which means some of our infrastructure on public cloud and some are in private cloud such as databases.   
+community cloud: 
+   - community cloud are shared by different organisation with similar intrest or requirement.  
+     
+
+
+Cloud Services Models:  
+On-site (on-premises): whenever we want to host the webste we have to manage everything.   
+Iaas : (ec2) 
+Paas : (aws beanstawlk )   
+Saas: we don't have to manage anything we just need to create an account ans start using it. 
+      gmail, slack, office 365   
+
+
+-------------------------------------------------------------------------------------------------
+What is Regions ?  
+- Aws services are either regional or global (regional --> ec2, vpc etc, global --> s3 )
+
+how to choose right region ?  
+- Data stayes in your region: complience with data governanace and local requirement)  
+- Closer to cutomer for latency performence 
+- Service Availability: Not all services or feature are available everywhere.  
+  for example: new tool might launch in us first and come to other regions later  
+- Cost difference: Price can vary by region 
+
+What is Availablity zones (min-2, max-6, but usually-3)    
+- An Availability zones are the separate data centers woth its own power network.   
+- They are connected each other with own Aws networking wich is high speed and low latency. 
+1-subnet --> 1AZ  
+
+
+Edge locations: They are used by aws to deliver content to user faster.  
+- caching the data 
+- used with s3 and cloudformations  
+- Edge location is a part of Aws's global content delivery network (CDN) called Amazon CloudFront. 
+----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
