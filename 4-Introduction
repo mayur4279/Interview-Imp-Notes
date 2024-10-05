@@ -1,4 +1,70 @@
-Introduction (name, residing, complted graduation from, since nov... where i gained , At hisan my role par...)
+simple intro: 
+
+Hello shubham, 
+my name is mayur.  
+I am currently residing in pune.   
+I completed my graduatiom from indira college of engineering and managemnt.  
+Since nov 2023 i have been working with hisan labs where i gained the extensive...  
+My role particulary involved in operational part of devOps.  
+
+
+For DevOps Domain, I have experience in working with various tools.  
+github: (managed project locally) 
+docker:  (craeted containerised applications) 
+kubernetes: (managed cluster and there nodes , managed external access )  
+terraform: (created infra in the form of code)  
+jenkins: (craeted pipeline using tools like ) 
+
+
+
+As for Aws, I have Experience in working with various services like... 
+Iam: (managed user, groups and there roles and attached the policies to them)  
+computational service like ec2: (created launch template, custom ami as per company requirement, 
+                                 also worked with auto scaling group, and attached load balancer to volume group.
+                                 to optimised the performence of the server. )  
+
+Netwoking services like vpc & route 53: (created private vpc and its componenets like sunbet and route tables,   
+                                         created public and private subnet, also established the connection between
+                                         two different region vpc'c with help of VPC Peering )   
+                           As for Route53 i managed the Dns Configuration.  
+                 
+database services like RDS 
+Storage service like efs and s3:  (where i created public and privat bucket,
+                                   managed s3 lifecycle suing multiple storage classes,    
+                                   Also done cross region replication of the bucket)  
+
+
+
+Apart from that, I have also experience with handling desktop os like ubuntu and windows & server os 
+like centos, Amazon linux, ubuntu     
+
+- Created Backups  
+- configured multiple servers like apache2 & nginx  
+- Created backups using tools like tar and cronjob.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction (name, residing, complted graduation from, since nov... where i gained , At hisan my role par... and also a support enginner)
 └── DevOps (In DevOps domain) (i have hands on experience in working with...)
      ├── Github  
         └── (managed project code locally, with git functions.., along with managing pull     requests)       
@@ -22,7 +88,9 @@ This was my summary of work in DevOps
 └── Aws (As for Aws) (i experience in working with various services such as,  )
      ├── IAM
         └── (managed users, groups and roles and attached diffrent policies to them)   
-     
+
+     ├── Computational Services (ec2)  
+        └── (created launch Template,  custom ami's as per company requiremnts. Also work with auto scaling group and attached load balancer to volume group, to optimised the performence of the server)
      
      
      ├── Networking services (vpc & route53)
@@ -32,8 +100,7 @@ This was my summary of work in DevOps
 As for  └── (managed Dns configurations, including domain regi.., hosted ... & worked with 
 route53      different routing policies like weighted, latency based, geolocation based  )
         
-     
-    
+        
     
      ├── Database services (RDS)  &
 
@@ -51,6 +118,9 @@ This was my  summary of work in Aws
      ├── I Also Have Basic understanding of writing shell scripting for automation. 
      ├── & Also created backups using tools like tar & cronjob.  
     
+
+
+
      { Optional
 
      ├── Implemented security using firewall, SELinux & sudo previledges
@@ -69,12 +139,16 @@ This was my  summary of work in Aws
 
 
 
+
+
+
+
      
 
 -------------------
 Basic Introduction
 -------------------
-Hellow, [Shubham] my name is mayur, i am  currently residing in pune. 
+Hello, [Shubham] my name is mayur, i am  currently residing in pune. 
 - I completed my graduation from indira college of engineering and management.  
 - Since nov 2023 i have been working with hisan labs company, where i gained the extensive experience in 
 devOps methoodology, Aws & Linux System Administrator.   
