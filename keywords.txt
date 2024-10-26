@@ -10,5 +10,3 @@ Test branch is mainly used by testers or developers && uat branch mainly used by
 hotfix branch (if the issue found in the prod branch) (branches are nothing but the just tag given to that branches) 
 
 git checkout -b  feature/your-branch 
-
-
