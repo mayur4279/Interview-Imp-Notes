@@ -1,0 +1,51 @@
+DevOps:  
+  hands on experience (tools like git and github) 
+  work with  (docker)
+  my main work comes  (kubernetes)
+  also worked with (terraform) 
+  i also have experience with (jenkins)   
+
+
+aws:  
+
+   experience with (various services like)  
+   worked with compu (ec2) 
+   worked with Netwo (vpc, route53) 
+         As for Route53  (route53)   
+   i have worked with database (RDS) && and storage services (s3 and efs)  
+   
+
+linux: 
+
+  experience  (desktop os and server os) 
+  managed     (file system and disk partition along with lvm) 
+  configured  (network interfaces) 
+  implement security  (SElinux, firewall and sudo prviledges) 
+  worked with networ  (ssh,ftp,http,nfs) 
+  i have also monitored systems ( top and netstat) 
+  basic understang of wri (shell) & creating backup (tar, cronjob) 
+
+
+
+
+common starting line.... 
+
+i have worked with                      
+i have also worked with                  
+i have also experience with     
+
+
+ending lines.....  
+
+where i managed  (like where i manged project locally  with  git functions like )  
+where i had to manage ( like whre i had to manage cluster and its nodes) 
+where i build infra  
+where i created pipeline  (where i created pipeline and managed project lifecycle with building tools like... )  
+
+
+
+  
+
+
+
+

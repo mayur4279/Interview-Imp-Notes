@@ -1,0 +1,33 @@
+Points to Remember:-  
+
+   Intro 
+ 
+   DevOps 
+    - github  
+    - docker 
+    - kubernets  
+    - Terraform 
+    - Jenkins  
+   
+   Aws  
+    - IAM service  
+    - Computational Services (ec2)  
+    - networking Services like (VPC)  
+    - Database Service like (RDS) and Storage services (s3 && efs)  
+
+   Linux
+    - worked with Desktop os and server os  
+    - Implement security  
+    - Monitored the systems  
+    - Managed file systems and work with disk partitions and lVM  
+    - Also worked with network servivces like ssh, ftp, nfs &  https. 
+    - Also have the basic understanding of the shell scripting for automation. 
+
+
+
+
+
+
+
+
+   

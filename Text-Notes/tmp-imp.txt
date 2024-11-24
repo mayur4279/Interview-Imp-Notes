@@ -1,0 +1,55 @@
+
+
+
+There is lot of issue between developement and operational team..  
+
+sometimes the code is run in Developers end but its not run in  Operational end 
+to overcome this issue we use devOps methodology...   
+the main goal of DevOps is to bridge the gap between software developers and operational team...  
+
+so most of the task and most of thw work is reduced...  
+
+what are the challeges that you are faced while developing cicd pipeline ?  
+
+
+the main challenge is with jenkins, there are lot of vidoes and and lot of blog related to the jenkins installation... 
+It took me one day to solve that problems 
+
+
+github webhook  ? 
+
+
+That could be handled only by the administrator..   
+
+
+Again its depend on project size if there is 70 to 80 services available then we use microservices based arcitecture..   
+If product is not to big then we can go ahed with monolithic applucation.  
+
+
+
+how to answer not ?  how many types of auto acaling ? Actually i not sure the types of auto scaling... lol  
+
+application load balancer handles http & https traffic..  
+
+
+
+If you are going for cloud engineering you need to deal with multiple project but if you are going for devOps interview you only work with one project  
+
+
+
+
+
+
+As per your company nomes 
+
+companies ---> comes to ---> only required candidated..   
+               Agnecy  
+
+
+
+
+
+"Rejected for wrong profile name ??" 
+
+
+

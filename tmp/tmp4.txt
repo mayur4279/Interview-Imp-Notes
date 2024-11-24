@@ -1,0 +1,46 @@
+https://975050134708.signin.aws.amazon.com/console
+
+user
+
+Mayur@4279  
+
+
+https://975050134708.signin.aws.amazon.com/console
+
+mayur 
+
+Mayur@4279
+
+
+
+AWS STS: 
+
+Aws security token service (STS) is  a global service which we cannot access graphically we only access using programatically...  
+
+which provide us the temporay credentials..   
+
+
+
+
+
+Management account  --> user is created and attached inline policy (STS)  
+
+Testing account (test related workload are deployed)  ---> Role is created for management account...   
+
+
+
+managed policies: can be attached to multiple users groups and roles..
+                 (does not depend on the user group or the roles means if delete any one of them it cannot be affected)  
+
+inline policy: Directly attached to the single role, group or the user... if delete any one of them it will  get deleted.
+               it follows one to one relationship... it can be attach only one at the time... its specific to this user only...   
+
+
+
+
+
+
+
+
+
+

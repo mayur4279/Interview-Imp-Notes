@@ -1,0 +1,40 @@
+Linux  
+  - history  
+  - basic command 
+  - Editor in Linux  
+  - 19 directories  
+  - User & Group Management  
+  - Permission Management  
+  - Archiving and compression  
+  - Software management in linux  
+  - Scheduling Tasks  
+  - Managing Partitions (LVM)   
+  - Services  
+    - Ssh
+    - Firewall   
+    - Apache2 or httpd  
+    - Tomcat  
+    - Ftp  
+    - mariadb  
+    - SELinux  
+    - nfs  
+    
+AWS  
+  - IAM  
+  - S3  
+  - VPC  
+  - Cloudwatch  
+  - RDS  
+  - ec2  
+  - Route53 
+ 
+DevOps:-   
+  - github  
+  - Docker  
+  - Kubernetes 
+  - Terraform   
+  - Jenkins  
+  - Maven  
+  - Ansible   
+  - Graffana  
+

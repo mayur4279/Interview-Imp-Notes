@@ -1,0 +1,12 @@
+
+
+1) Create Jenkins server in ec2 instance  
+
+2) install plugins  
+
+3) stages:   
+   3.1 pull   (pulling code from github)  
+   3.2 build  (building artifact with maven)  
+   3.3 test   (testing with sonarqube)  
+   3.4 deploy (deploy docker login, docker build, docker push, kubectl apply)   
+

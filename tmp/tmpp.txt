@@ -1,0 +1,7 @@
+For High Avialability we are maintaining 6 subnets (2 are private, 4 are public)  
+
+we use loadbalancer for high availability     
+
+
+
+

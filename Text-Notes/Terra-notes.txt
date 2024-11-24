@@ -1,0 +1,21 @@
+
+
+
+providers:- Aws, gcp, github
+
+HCL syntax: 
+
+<block> <parameters>  { 
+    key1 = value1            #all  the time key value key value  
+    key2 = value2            
+} 
+
+
+
+terraform block 
+providers block    
+resource  block   
+
+varaible block 
+
+

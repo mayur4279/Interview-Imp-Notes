@@ -1,0 +1,36 @@
+
+These Methodolgy are Used To develop The softwares...   
+
+
+Waterfall model:  
+- Required More Time 
+- Mainly Used for building monolithic applications 
+
+Phases Of Waterfall model   
+
+Requirement 
+     |_______Design 
+                |_____ Implementation   
+                             |__________Testing   
+                                           |______Deployment 
+                                                       |_________Monitoring 
+
+
+
+
+Agile Methodology:    
+
+- Waterfall Model Takes to much time Thats Why compnies are shifting Towards the Agile Methodology.  
+
+
+
+
+
+
+
+
+
+
+
+
+

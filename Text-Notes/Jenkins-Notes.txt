@@ -1,0 +1,19 @@
+to avoid delay we use CICD  
+
+
+Continuous Intigartion :- Build --> Testing (code test) --> Merge (merge to main branch)  
+
+Continuous Delivey:- Automatically Release to Repository (means code is ready anytime we can handover to the customer)  
+
+Continuous Deployment: Automatically Deploy To Production (code is deploy into production anytime we can handover to the customer)  
+
+   
+Jenkins dashboard Overview:  
+
+plugins: Suppose if we want to work with ansible we need to download jenkins plugin.  
+systems: In systems we see global jenkins settings.   
+Users: Suppose if we want to work with jenkins in teams then we create multiple users.  
+Systems logs: All jenkins server logs 
+
+
+Acc   

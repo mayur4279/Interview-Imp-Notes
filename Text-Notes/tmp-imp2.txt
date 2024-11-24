@@ -1,0 +1,62 @@
+
+
+nodjs  is the programming language...  
+
+ingress have its own ingress controller...  
+
+DevOps spring continuos roating 
+
+
+one spring devOps  
+
+
+
+
+
+
+
+
+
+developers start working on code  &&  devOps engineers start working with terraform  code  
+
+
+apt cache-search openjdk 
+
+
+
+suppotim\ng role is more for intern like creatinh  jenkins 
+
+attach  role to the jenkins servere (attach s3 role to jenkins)  
+
+
+5 months for 1st microservices...  
+
+
+
+Software Developement lifecycle  
+
+Agile methodology  (sprint & scrum )  (1 months)  
+
+DevOps Methodology (Sprint )   2 Weeks  
+
+
+
+Acl's Disable: Means only I can Decide The Permissions of that Bucket...   
+
+Acl's Enable: Objects in this bucket can be owned by other Aws Accounts...  
+
+Block All Public Access: No one Can access the objects from the internet 
+
+We need to make Bucket as well as Objects public 
+
+
+
+
+whataver remember while giving intro just tell it if not remember fogot it...
+
+ 
+
+or 1 = 1 '  --->  Indira Icem Erp Login Bug  
+
+
+

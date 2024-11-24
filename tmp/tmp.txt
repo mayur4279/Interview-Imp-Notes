@@ -1,0 +1,14 @@
+
+images is template used for containers and containers are the runtime process....    
+
+
+
+ssh  -i  <key_name>   ubuntu@<server_ip>  sudo mkdir /mnt/temp_dir 
+
+
+
+
+
+replace  
+
+

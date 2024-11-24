@@ -1,0 +1,59 @@
+Route 53 Provides -->  Dns As a service  
+
+Request Resolver 
+
+Route53 Provide:   
+   1) Domain registration  
+   2) Hosted Zones  
+   3) Health Checks  
+
+
+client  --->  Hostinger/any other  -->  Hosted Zones (resolves the requests)  
+
+vpc components are the imp word...    
+
+
+
+
+
+https://blog.cloudchampmayur.cloud 
+         |         |            |
+         | Second Level Domain  |
+    Subdoimain             Top Level Domain  
+ 
+
+
+
+Computer  -->  1) Step Resolver  && Local Dns Server    
+               2) Dns Server  8.8.8.8   
+               3) Dns Server Ask the roots servers that who manages the .com (Top Level  Domain )  
+                  {nslookup  -type=NS  cloud.   a.root-servers.net/or use any root server}  
+                  
+                  Dns Server Gets list of name server for .cloud TLD (Top Level Domain)  
+ 
+               4) Again Google send the request to  {cloudchampmayur.cloud }  
+   
+
+
+
+
+computer  --> Dns Server (DNS resolver)  -->  root server  -->  managed TLD server -->  Autorised Servers (Route 53) --> Hosted Zones 
+                         |                         |                       |                       |                        
+                     8.8.8.8            12 independent root servers        |                       |
+                                        operators with 1865 instances      |          They  Have Detailed info about the (cloudchampmayur.cloud  Domain)   
+                                                                           |
+                                                               Provides the list of Authorised servers 
+
+
+requesting root server about who manages this Top Level Domain  -->  nslookup   -type=NS  cloud.  <any root server>   
+
+IF we Get The List of Who Manages this TLD domain               -->  nslookup  -type=NS   cloudchampmayur.cloud   <any managed TLD Domain>   
+
+
+
+
+
+https://sookocheff.com/post/networking/how-does-dns-work/     {How Dns Works}  
+
+
+

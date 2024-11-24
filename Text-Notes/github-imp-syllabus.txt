@@ -1,0 +1,14 @@
+
+
+
+Github:  
+
+Theory (why we use,  need of Version control, Feature of Distributed version conrol)  
+Stages of Git.
+private and public key access.
+Branching Staratogy.
+Imp commands.
+Explain about Developement Stratagies?   
+
+
+

@@ -1,0 +1,98 @@
+
+
+step 1) Create RDS (because we need to add endpoint in spring backend)   
+
+step 2) Create artifact using maven  
+        deploy this artifact in lightweight container  
+
+step 3) Create frontend with nodejs  
+        deploy artifact in lightweight container...    
+        run with ng command....   
+
+step 4) deploy over kubernetes  
+        write Deployment file for deploying pods (frontend and backend)  
+        write services file for services (frontend and backend) 
+        deploy over kubernetes...  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: frontend-backend-pod
+  labels:
+    app: frontend-backend
+spec:
+  containers:
+  - name: angular-frontend
+    image: mayur4279/angular-project:frontend
+    ports:
+    - containerPort: 80
+      protocol: TCP
+  - name: angular-backend
+    image: mayur4279/angular-project:backend
+    ports:
+    - containerPort: 8080
+      protocol: TCP
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: frontend-service
+spec:
+  selector:
+    app: frontend-backend
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+  type: LoadBalancer
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: backend-service
+spec:
+  selector:
+    app: frontend-backend
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 8080
+  type: ClusterIP
+
+
+
+
+
+
+
+three tier is nothing but the   presentation,          application layer               and database layer  
+                              provide interface     all logical operations like 
+                              to the user         adding user deleting are done here
+
+
+
+
+
+

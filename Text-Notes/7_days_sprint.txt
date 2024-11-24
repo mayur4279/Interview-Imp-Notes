@@ -1,0 +1,53 @@
+Planning:  
+
+"""
+Docker Dipe Dive    (Theory Main)  
+Kubernetes Dipe Dive (theory Main)  
+Jenkins Dipe Dive  (Theory main)  
+Terraform Dipe Dive (Theory Main)  
+GCP Overview (Theory)  
+Aws Dipe Dive (Theory)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+
+requirement:   
+
+"""
+Notepad & Pen 
+Focus  
+Good Mental Health (only when you study)  
+""" 
+
+Design 
+
+Software Developemte     
+
+testing 
+
+deployment   
+
+Maintainence  
+
+
+

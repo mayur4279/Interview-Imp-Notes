@@ -1,0 +1,37 @@
+
+harshita.sharma@techolution.com  (HR)  
+
+--------------------------
+Techolution  Hyderabad    
+--------------------------    
+ 
+1) Introduction  (small and confident)                                                           
+
+2) Project Explanation (already quality but the roles and responsibilities part is missing)    
+
+3) resume Questions  and practice                                                          
+
+4) Project Retated  Questions    
+
+5) Basic codes of tools  like, Basic 
+  
+   (shell-script, DockerFile, Terraform code, deployment && service yaml files, jenkins pipeline) 
+
+
+--------------Extra Questions-----------------------------
+
+Biggest Problem You Solved  ?   
+
+What Excites you to work ?  
+
+Bad Things About your Company  ?   
+
+What is company Culture ?   
+
+Why you are switching ?     
+ 
+-----------------------------------------------------------
+Github Webhook 
+
+
+

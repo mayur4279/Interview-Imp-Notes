@@ -1,0 +1,34 @@
+Roles & Responsibilities 
+
+***compute    
+- create Vm 
+- modify Vm 
+- Add Data Disk 
+- NSG 
+- Dns with 
+- Password Reset 
+- Troubleshooting VM 
+- Backup & Restore 
+- web Hosting 
+- Wordpress Server 
+- Domain with Website 
+
+
+***Network  
+- Vnet 
+- NSG
+- subnet 
+- VPN 
+- Express Route 
+- V-Net peering
+- Load Balancing 
+
+
+***Azure AD   
+- User/Groups 
+- Roles 
+- renant & subcription 
+- Custom Domain 
+- Register Device  
+- Azure AD Connect Hybrid  
+
